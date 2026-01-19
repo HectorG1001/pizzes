@@ -23,7 +23,7 @@
  echo "El preu és $pvp € (IVA inclòs)<br>";
 }
 echo "<br>";
-echo "Autor: HectorG1001"."<br>";
+echo "Autor: hegogo"."<br>";
  ?>
  </body>
 </html>
